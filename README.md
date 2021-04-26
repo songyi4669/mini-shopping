@@ -3,5 +3,5 @@
 
 ![minigame2](https://user-images.githubusercontent.com/81962246/115959549-b3a30b00-a547-11eb-8b77-8e2c87a67c46.gif)
 
-자세한 제작 과정은 👇
+#### 자세한 제작 과정은 👇
 https://songyi.tistory.com/13?category=981148
